@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/dimple_practicle/.vs
+/dimple_practicle/PracaticalDemoRepository/bin/Debug/net8.0
+/dimple_practicle/PracaticalDemoRepository/obj
+/dimple_practicle/PracticalDemo/bin/Debug/net8.0
+/dimple_practicle/PracticalDemo/obj
+/dimple_practicle/PracticalDemoWeb/bin/Debug/net8.0
+/dimple_practicle/PracticalDemoWeb/obj
